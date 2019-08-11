@@ -1,5 +1,4 @@
 # juliaFiles
-Julia scripts and notebooks
+Code in Julia for exercises 1, 2 and 5 from Andrew Ng's _Machine_Learning_ course.
 
-**ng-ml**: Folder contains Julia scripts and notebooks for exercises from Andrew Ng's _Machine Learning_ course on
-Coursera. 
+**ng-ml**: Folder contains Julia scripts and notebooks
